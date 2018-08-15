@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CountryRegion Name="浙江省" Code="01">
+    <City Name="杭州市" Code="001">
+        <Region Name="上城区" Code="0101" />
+        <Bank Name="杭州联合银行" Code="801000"/>
+        <Region Name="下城区" Code="0102" />
+        <Bank Name="杭州联合银行" Code="801000"/>
+        <Region Name="江干区" Code="0103" />
+        <Bank Name="杭州联合银行" Code="801000"/>
+        <Region Name="拱墅区" Code="0104" />
+        <Bank Name="杭州联合银行" Code="801000"/>
+        <Region Name="西湖区" Code="0105" />
+        <Bank Name="杭州联合银行" Code="801000"/>
+        <Region Name="滨江区" Code="0106" />
+        <Bank Name="杭州联合银行" Code="801000"/>
+        <Region Name="萧山区" Code="0107" />
+        <Bank Name="萧山农商银行" Code="802000"/>
+        <Region Name="余杭区" Code="0108" />
+        <Bank Name="余杭农村商业银行" Code="803000"/>
+        <Region Name="富阳区" Code="0109" />
+        <Bank Name="富阳农商行" Code="805000"/>
+        <Region Name="桐庐区" Code="0110" />
+        <Bank Name="桐庐农村合作银行" Code="807000"/>
+        <Region Name="淳安区" Code="0111" />
+        <Bank Name="淳安信用联社" Code="809000"/>
+        <Region Name="建德区" Code="0112" />
+        <Bank Name="建德农信联社" Code="808000"/>
+        <Region Name="临安区" Code="0113" />
+        <Bank Name="临安信用联社" Code="806000"/>
+    </City>
+
+    <City Name="宁波市" Code="002">
+        <Region Name="海曙区" Code="0201" />
+        <Bank Name="鄞州农村合作银行" Code="821000"/>
+        <Bank Name="宁波市区联社" Code="831000"/>
+        <Region Name="江东区" Code="0202" />
+        <Bank Name="宁波市区联社" Code="831000"/>
+        <Region Name="江北区" Code="0203" />
+        <Bank Name="宁波市区联社" Code="831000"/>
+        <Region Name="北仑区" Code="0204" />
+        <Bank Name="北仑信用联社" Code="825000"/>
+        <Region Name="镇海区" Code="0205" />
+        <Bank Name="镇海农商银行" Code="828000"/>
+        <Region Name="鄞州区" Code="0206" />
+        <Bank Name="鄞州农村合作银行" Code="821000"/>
+        <Bank Name="宁波市区联社" Code="831000"/>
+        <Region Name="象山县" Code="0207" />
+        <Bank Name="象山信用联社" Code="827000"/>
+        <Region Name="宁海县" Code="0208" />
+        <Bank Name="宁海农村商业银行" Code="829000"/>
+        <Region Name="余姚市" Code="0209" />
+        <Bank Name="余姚农村商业银行" Code="823000"/>
+        <Region Name="慈溪市" Code="0210" />
+        <Bank Name="慈溪农村商业银行" Code="822000"/>
+        <Region Name="奉化市" Code="0211" />
+        <Bank Name="奉化农商银行" Code="826000"/>
+    </City>
+
+    <City Name="温州市" Code="003">
+        <Region Name="鹿城区" Code="0301" />
+        <Bank Name="鹿城农商银行" Code="851000"/>
+        <Bank Name="瓯海农村商业银行" Code="853000"/>
+        <Bank Name="龙湾农商银行" Code="852000"/>
+        <Region Name="龙湾区" Code="0302" />
+        <Bank Name="鹿城农商银行" Code="851000"/>
+        <Bank Name="瓯海农村商业银行" Code="853000"/>
+        <Bank Name="龙湾农商银行" Code="852000"/>
+        <Region Name="瓯海区" Code="0303" />
+        <Bank Name="鹿城农商银行" Code="851000"/>
+        <Bank Name="瓯海农村商业银行" Code="853000"/>
+        <Bank Name="龙湾农商银行" Code="852000"/>
+        <Region Name="洞头区" Code="0304" />
+        <Bank Name="北仑信用联社" Code="825000"/>
+        <Region Name="永嘉县" Code="0305" />
+        <Bank Name="永嘉农商银行" Code="857000"/>
+        <Region Name="平阳县" Code="0306" />
+        <Bank Name="平阳农商行" Code="859000"/>
+        <Region Name="苍南县" Code="0307" />
+        <Bank Name="苍南农商银行" Code="861000"/>
+        <Region Name="文成县" Code="0308" />
+        <Bank Name="文成信用联社" Code="862000"/>
+        <Region Name="泰顺县" Code="0309" />
+        <Bank Name="泰顺信用联社" Code="863000"/>
+        <Region Name="瑞安市" Code="0310" />
+        <Bank Name="瑞安农商银行" Code="858000"/>
+        <Region Name="乐清市" Code="0311" />
+        <Bank Name="乐清农商银行" Code="856000"/>
+    </City>
+
+    <City Name="嘉兴市" Code="004">
+        <Region Name="南湖区" Code="0401" />
+        <Bank Name="禾城农商银行" Code="871000"/>
+        <Region Name="秀洲区" Code="0402" />
+        <Bank Name="禾城农商银行" Code="871000"/>
+        <Region Name="嘉善县" Code="0403" />
+        <Bank Name="嘉善农商银行" Code="872000"/>
+        <Region Name="海盐县" Code="0405" />
+        <Bank Name="海盐信用联社" Code="876000"/>
+        <Region Name="海宁市" Code="0406" />
+        <Bank Name="浙江海宁农商行" Code="875000"/>
+        <Region Name="平湖市" Code="0407" />
+        <Bank Name="平湖农村合作银行" Code="873000"/>
+        <Region Name="桐乡市" Code="0408" />
+        <Bank Name="桐乡信用联社" Code="877000"/>
+    </City>
+
+    <City Name="湖州市" Code="005">
+        <Region Name="吴兴区" Code="0501" />
+        <Bank Name="吴兴农村合作银行" Code="885000"/>
+        <Region Name="南浔区" Code="0502" />
+        <Bank Name="南浔银行" Code="886000"/>
+        <Region Name="德清县" Code="0503" />
+        <Bank Name="德清农商银行" Code="881000"/>
+        <Region Name="长兴县" Code="0504" />
+        <Bank Name="长兴农村合作银行" Code="882000"/>
+        <Region Name="安吉县" Code="0505" />
+        <Bank Name="安吉农商银行" Code="883000"/>
+    </City>
+
+    <City Name="绍兴市" Code="006">
+        <Region Name="越城区" Code="0601" />
+        <Bank Name="瑞丰银行" Code="891000"/>
+        <Bank Name="绍兴恒信合行" Code="897000"/>
+        <Region Name="柯桥区" Code="0602" />
+        <Bank Name="瑞丰银行" Code="891000"/>
+        <Bank Name="绍兴恒信合行" Code="897000"/>
+        <Region Name="上虞区" Code="0603" />
+        <Bank Name="上虞农商银行" Code="892000"/>
+        <Region Name="新昌县" Code="0604" />
+        <Bank Name="新昌农商银行" Code="895000"/>
+        <Region Name="诸暨市" Code="0605" />
+        <Bank Name="诸暨农商银行" Code="896000"/>
+        <Region Name="嵊州市" Code="0606" />
+        <Bank Name="嵊州合作银行" Code="893000"/>
+    </City>
+
+    <City Name="金华市" Code="007">
+        <Region Name="婺城区" Code="0701" />
+        <Bank Name="金华成泰农商银行" Code="901000"/>
+        <Region Name="金东区" Code="0702" />
+        <Bank Name="金华成泰农商银行" Code="901000"/>
+        <Region Name="武义县" Code="0703" />
+        <Bank Name="武义农村合作银行" Code="905000"/>
+        <Region Name="浦江县" Code="0704" />
+        <Bank Name="浦江农信联社" Code="909000"/>
+        <Region Name="磐安县" Code="0705" />
+        <Bank Name="磐安农信联社" Code="907000"/>
+        <Region Name="兰溪市" Code="0706" />
+        <Bank Name="兰溪农村合作银行" Code="902000"/>
+        <Region Name="义乌市" Code="0707" />
+        <Bank Name="义乌农商银行" Code="908000"/>
+        <Region Name="东阳市" Code="0708" />
+        <Bank Name="东阳农商银行" Code="906000"/>
+        <Region Name="永康市" Code="0709" />
+        <Bank Name="永康农商银行" Code="903000"/>
+    </City>
+
+    <City Name="衢州市" Code="008">
+        <Region Name="柯城区" Code="0801" />
+        <Bank Name="柯城农商银行" Code="921000"/>
+        <Bank Name="衢江农信联社" Code="922000"/>
+        <Region Name="衢江区" Code="0802" />
+        <Bank Name="柯城农商银行" Code="921000"/>
+        <Bank Name="衢江农信联社" Code="922000"/>
+        <Region Name="常山县" Code="0803" />
+        <Bank Name="常山信用联社" Code="926000"/>
+        <Region Name="开化县" Code="0804" />
+        <Bank Name="开化信用联社" Code="927000"/>
+        <Region Name="龙游县" Code="0805" />
+        <Bank Name="龙游信用联社" Code="923000"/>
+        <Region Name="江山市" Code="0806" />
+        <Bank Name="江山农商银行" Code="925000"/>
+    </City>
+
+    <City Name="舟山市" Code="009">
+        <Region Name="定海区" Code="0901" />
+        <Bank Name="定海海洋农商银行" Code="981000"/>
+        <Bank Name="普陀农村商业银行" Code="982000"/>
+        <Region Name="普陀区" Code="0902" />
+        <Bank Name="定海海洋农商银行" Code="981000"/>
+        <Bank Name="普陀农村商业银行" Code="982000"/>
+        <Region Name="岱山县" Code="0903" />
+        <Bank Name="岱山信用联社" Code="983000"/>
+        <Region Name="嵊泗县" Code="0904" />
+        <Bank Name="嵊泗信用联社" Code="985000"/>
+    </City>
+
+    <City Name="台州市" Code="010">
+        <Region Name="椒江区" Code="1001" />
+        <Bank Name="椒江农村合作银行" Code="961000"/>
+        <Region Name="黄岩区" Code="1002" />
+        <Bank Name="黄岩合作银行" Code="962000"/>
+        <Region Name="路桥区" Code="1003" />
+        <Bank Name="路桥农村合作银行" Code="963000"/>
+        <Region Name="玉环县" Code="1004" />
+        <Bank Name="玉环农村合作银行" Code="967000"/>
+        <Region Name="三门县" Code="1005" />
+        <Bank Name="三门农信联社" Code="971000"/>
+        <Region Name="天台县" Code="1006" />
+        <Bank Name="天台农商银行" Code="968000"/>
+        <Region Name="仙居县" Code="1007" />
+        <Bank Name="仙居信用联社" Code="969000"/>
+        <Region Name="温岭市" Code="1008" />
+        <Bank Name="温岭农商银行" Code="966000"/>
+        <Region Name="临海市" Code="1009" />
+        <Bank Name="临海农商银行" Code="965000"/>
+    </City>
+
+    <City Name="丽水市" Code="011">
+        <Region Name="莲都区" Code="1101" />
+        <Bank Name="莲都农商银行" Code="931000"/>
+        <Region Name="青田县" Code="1102" />
+        <Bank Name="青田农商银行" Code="932000"/>
+        <Region Name="缙云县" Code="1103" />
+        <Bank Name="缙云农信联社" Code="937000"/>
+        <Region Name="遂昌县" Code="1104" />
+        <Bank Name="遂昌信用联社" Code="938000"/>
+        <Region Name="松阳县" Code="1105" />
+        <Bank Name="松阳信用联社" Code="939000"/>
+        <Region Name="云和县" Code="1106" />
+        <Bank Name="云和信用联社" Code="933000"/>
+        <Region Name="庆元县" Code="1107" />
+        <Bank Name="庆元信用联社" Code="936000"/>
+        <Region Name="景宁县" Code="1108" />
+        <Bank Name="景宁信用联社" Code="951000"/>
+        <Region Name="龙泉市" Code="1109" />
+        <Bank Name="龙泉信用联社" Code="935000"/>
+    </City>
+</CountryRegion>
