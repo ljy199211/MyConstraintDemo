@@ -543,10 +543,10 @@ public class WheelView extends View {
 
 		if (itemsLayout != null && itemsLayout.getChildAt(0) != null) {
 			itemHeight = itemsLayout.getChildAt(0).getHeight();
-			return itemHeight;
+			return itemHeight+100;
 		}
 
-		return getHeight() / visibleItems;
+		return getHeight()+100 / visibleItems;
 	}
 
 	/**
