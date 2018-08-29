@@ -7,6 +7,7 @@ import android.os.Build;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
@@ -36,6 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 });
                 break;
             case R.id.btn_jump_sys:
+                Log.e("MainActivityNotice",":"+NotificationsUtils.isNotificationEnabled(this));
                 if (NotificationsUtils.isNotificationEnabled(this)){
                     Toast.makeText(this, "权限开了", Toast.LENGTH_SHORT).show();
 
@@ -64,14 +66,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private void jumpSystemSetting() {
         Intent intent = new Intent();
-        if (Build.VERSION.SDK_INT >= 9){
             intent.setAction("android.settings.APPLICATION_DETAILS_SETTINGS");
             intent.setData(Uri.fromParts("package",MainActivity.this.getPackageName(),null));
-        }else if (Build.VERSION.SDK_INT <= 8){
-            intent.setAction(Intent.ACTION_VIEW);
-            intent.setClassName("com.android.settings","com.android.settings.InstalledAppDetails");
-            intent.putExtra("com.android.settings.ApplicationPkgName",MainActivity.this.getPackageName());
-        }
         startActivity(intent);
     }
 }
